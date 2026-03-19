@@ -202,7 +202,7 @@ transition: color 300ms ease;
 }
 .card:hover .card__product {
 
-color: #34568b;
+color: variables.card-hover-color;
 }
 .card__button {
 transition: background-color 300ms ease, color 300ms ease;
