@@ -186,7 +186,7 @@ grid-template-columns: repeat(1, variables.$cartao-width);
 .catalog, .catalog__grid { overflow: visible; }
 
 
-card:hover {
+.card:hover {
 transform: scale(1.2);
 z-index: 2;
 }
